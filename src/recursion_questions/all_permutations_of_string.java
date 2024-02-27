@@ -1,3 +1,5 @@
+package recursion_questions;
+
 public class all_permutations_of_string {
     public static void printPrem(String str, String permutation){
         if (str.length()==0){

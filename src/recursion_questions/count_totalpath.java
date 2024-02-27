@@ -1,3 +1,5 @@
+package recursion_questions;
+
 public class count_totalpath {
     public static int countPaths(int i, int j , int n, int  m){
         if (i == n || j == m){

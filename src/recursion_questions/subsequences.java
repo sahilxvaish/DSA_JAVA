@@ -1,3 +1,5 @@
+package recursion_questions;
+
 public class subsequences {
     public static void subsequences(String str, int idx, String newString){
         if (idx == str.length()){

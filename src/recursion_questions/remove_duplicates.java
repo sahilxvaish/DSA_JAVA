@@ -1,3 +1,5 @@
+package recursion_questions;
+
 public class remove_duplicates {
     public static boolean[] map = new boolean[26];
 

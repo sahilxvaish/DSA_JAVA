@@ -1,3 +1,5 @@
+package recursion_questions;
+
 public class all_x_to_endofString {
     public static void moveAllX(String str, int  idx, int count, String newString){
         if (idx== str.length()){

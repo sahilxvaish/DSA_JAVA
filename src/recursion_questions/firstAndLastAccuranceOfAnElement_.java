@@ -1,3 +1,5 @@
+package recursion_questions;
+
 public class firstAndLastAccuranceOfAnElement_ {
     public static int first = -1;
     public static int last = -1;
