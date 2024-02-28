@@ -31,3 +31,5 @@ public class print_subsets {
 
     }
 }
+
+// O(2^n)
