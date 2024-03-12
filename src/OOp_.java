@@ -24,3 +24,6 @@ public class OOp_ {
 
     }
 }
+
+//interfaces
+
